@@ -3,8 +3,8 @@
 Assignment 1 in Web App Development, as part of a MSc in Computer Science.
 
 Languages used in this assignment:
-*HTML 
-*CSS
+* HTML 
+* CSS
 
 Assignment is based on creating a website for a charity of the students choosing.
 
