@@ -1,10 +1,11 @@
-# web-app-development
-Assignment 1 of Web App Development MSc Course.
+# Web Application Development - Assignment 1
 
-Languages employed in this assignment:
-HTML 
-CSS
+Assignment 1 in Web App Development, as part of a MSc in Computer Science.
 
-Assignment is based on creating a website for a charity of your choice.
+Languages used in this assignment:
+*HTML 
+*CSS
 
-To preview the coded pages as viewable HTML, please go [here](http://htmlpreview.github.io/?https://github.com/robertyoung2/web-app-development/blob/master/index.html)
+Assignment is based on creating a website for a charity of the students choosing.
+
+To preview the completed assignment as viewable HTML, please go [here](http://htmlpreview.github.io/?https://github.com/robertyoung2/web-app-development/blob/master/index.html)
